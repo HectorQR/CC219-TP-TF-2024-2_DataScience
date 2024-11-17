@@ -1,4 +1,7 @@
 # CC219-TP-TF-2024-2_DataScience
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC" />
+</p>
 # Sistema de Recomendación De Peliculas
 
 ## Objetivo del Trabajo
